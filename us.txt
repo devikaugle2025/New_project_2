@@ -1,0 +1,7 @@
+deep learning 
+deep learning vs machine learning
+why overfitting occurs in ann
+nn
+types
+components
+if uh are training deep learning model and it is overfit how will uh overcome it

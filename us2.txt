@@ -1,0 +1,26 @@
+what is data analysis?
+types of analysis?
+diff between chart and dashboards , static an dynamic ,( list ,, tuple , set , dict) ,for vs while , append and extend in list , pop vs popitem , map vs lambda , args vs kwargs
+what is data wwarehouse ?
+why we should learn python?
+why python is dynamically typed?
+what is kernel , ide , %whose , id() , 
+data types 
+a = 1 , 2, 3 it's data type by default is tuple
+empty tuple 
+tuple to list conversion ----> sorted()
+packaging , unpackaging 
+set to dict -----then make set empty
+numpy , pandas , matplotlib , seaborne
+
+
+cloud 
+git 
+GitHub
+bash commands 
+
+
+
+
+
+
